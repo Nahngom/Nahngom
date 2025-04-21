@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+I'm Max, a CSE student passionate about game development and C++ programming.
+
+## 🔧 Technologies & Tools
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
 
 <!--
 **Nahngom/Nahngom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
